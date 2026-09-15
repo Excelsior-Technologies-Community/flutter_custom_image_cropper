@@ -29,10 +29,8 @@ A customizable Flutter image cropper package that allows users to select, zoom, 
 
 ## Preview
 
-Add your demo GIF here:
-
 <p align="center">
-  <img src="example/assets/demo.gif" width="250">
+  <img src="./example/assets/demo.gif" width="250" alt="Flutter Custom Image Cropper Demo">
 </p>
 
 ## Installation
